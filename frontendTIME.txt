@@ -1,0 +1,1 @@
+Try making a frontend with clerk for a basic login page and something like what we made for the churn project.
